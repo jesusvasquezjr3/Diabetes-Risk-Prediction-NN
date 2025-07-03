@@ -42,7 +42,7 @@ This project implements a **feedforward neural network** in MATLAB to predict di
 ---
 
 ## 🎯 Purpose  
-Developed for **academic research** (Tec de Monterrey, Gpo 663), this project:  
+Developed for **academic research** (Tec de Monterrey), this project:  
 - Illustrates **neural network fundamentals** (e.g., weight initialization, backpropagation).  
 - Highlights the clinical relevance of **GL and WC** in diabetes screening.  
 
