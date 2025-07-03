@@ -97,17 +97,3 @@ Developed for **academic research** (Tec de Monterrey, Gpo 663), this project:
 **MIT License**  
 © Tec de Monterrey.  
 *For academic use only. See [LICENSE](./LICENSE) for details.*  
-```  
-
----
-
-### 📂 Repository Structure  
-```
-|- Diabetes_Risk_Prediction_Neural_Network/
-  |- MATLAB.m                # Main MATLAB script
-  |- images/
-  |  |- FIG1.jpg             # Error vs. Epochs plot
-  |  |- FIG2.jpg             # Prediction evolution plot
-  |- README.md               # Project documentation
-  |- LICENSE                 # MIT License file
-```  
